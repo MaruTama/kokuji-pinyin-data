@@ -21,4 +21,4 @@ Since there are patterns that do not fit within the ‘Standard for Chinese Pron
 ![拼音选择流程_中文](./img/拼音选择流程_中文.png)
 
 # Organized Table of Kokuji
-Refer to [Organized-Table-of-Kokuji](https://github.com/MaruTama/kokuji-pinyin-data/wiki/Organized-Table-of-Kokuji).
+Refer to [Organized-Table-of-Kokuji](https://github.com/MaruTama/kokuji-pinyin-data/wiki).
